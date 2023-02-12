@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cefcec4-7321-4e34-91e4-0ffefc305269" name="Changes" comment="">
+    <list default="true" id="7dc2e08c-e1a5-44a4-99ad-1da51ad051a8" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CommandPattern.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +28,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2LSOR65yp5vY2gfMii01IsXHjlm" />
+  <component name="ProjectId" id="2LdZ3ngmNJElSIxvmKUb00TXXwe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,16 +38,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/svetaniskorodnova/dev/Patterns/AbstractFactoryPattern",
-    "nodejs_package_manager_path": "npm"
+    "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mypackage.PizzaTestDrive" />
-      <module name="AbstractFactoryPattern" />
+    <configuration name="RemoteLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mypackage.RemoteLoader" />
+      <module name="CommandPattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.mypackage.*" />
@@ -61,20 +57,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PizzaTestDrive" />
+        <item itemvalue="Application.RemoteLoader" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2cefcec4-7321-4e34-91e4-0ffefc305269" name="Changes" comment="" />
-      <created>1675861006370</created>
+      <changelist id="7dc2e08c-e1a5-44a4-99ad-1da51ad051a8" name="Changes" comment="" />
+      <created>1676202724630</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675861006370</updated>
-      <workItem from="1675861007764" duration="4201000" />
-      <workItem from="1675886132997" duration="1227000" />
+      <updated>1676202724630</updated>
+      <workItem from="1676202725800" duration="5085000" />
     </task>
     <servers />
   </component>
